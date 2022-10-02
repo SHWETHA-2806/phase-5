@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-10-02T11:45:44 IST" name="Default suite" finished-at="2022-10-02T11:45:58 IST" duration-ms="13966">
+    <groups>
+    </groups>
+    <test started-at="2022-10-02T11:45:44 IST" name="Default test" finished-at="2022-10-02T11:45:58 IST" duration-ms="13966">
+      <class name="Test.Testing">
+        <test-method signature="ValidateLoginScript()[pri:0, instance:Test.Testing@f381794]" started-at="2022-10-02T11:45:44 IST" name="ValidateLoginScript" finished-at="2022-10-02T11:45:47 IST" duration-ms="2809" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateLoginScript -->
+        <test-method signature="addDetailToRegisterForm()[pri:1, instance:Test.Testing@f381794]" started-at="2022-10-02T11:45:47 IST" name="addDetailToRegisterForm" finished-at="2022-10-02T11:45:49 IST" duration-ms="1928" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addDetailToRegisterForm -->
+        <test-method signature="addToCart()[pri:2, instance:Test.Testing@f381794]" started-at="2022-10-02T11:45:49 IST" name="addToCart" finished-at="2022-10-02T11:45:52 IST" duration-ms="2785" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addToCart -->
+        <test-method signature="addDetailsToLoginForm()[pri:3, instance:Test.Testing@f381794]" started-at="2022-10-02T11:45:52 IST" name="addDetailsToLoginForm" finished-at="2022-10-02T11:45:58 IST" duration-ms="6378" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addDetailsToLoginForm -->
+      </class> <!-- Test.Testing -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
